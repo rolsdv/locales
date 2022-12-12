@@ -183,7 +183,7 @@ export const locale: Locale = {
       target: ''
     },
     { source: 'Aggiungi un membro a questo team.', target: '' },
-    { source: 'Invita un nuovo member', target: '' },
+    { source: 'Invita un nuovo membro', target: '' },
     { source: 'Membro', target: '' },
     { source: 'Data Inserimento', target: '' },
     { source: 'Tu', target: '' },
